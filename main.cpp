@@ -1,6 +1,6 @@
 /* 
  * File:   main.cpp
- * Author: SantoshGG
+ * Author: Ankur
  *
  * Created on May 31, 2016, 12:08 PM
  */
